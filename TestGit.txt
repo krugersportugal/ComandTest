@@ -1,12 +1,13 @@
 <html>
 	<body>
+	<title>KRUGER </title>
 	<title>Cambios por parte de otro desarrollador </title>
 		<div>
 			<h3>PRUEBA COMANDOS GIT </h3>
 		</div>
 
 		<div>
-			<h3>PRUEBA DE MELD COMO HERRAMIENTA DE DIFERENCIAS</h3>
+			<h3>PRUEBA DE MELD COMO HERRAMIENTA DE DIFERENCIAS Y DE CONFLICTOS CON MERGE 2</h3>
 			<h3>TEST PRUEBA MELD </h3>
 		</div>
 	</body>
