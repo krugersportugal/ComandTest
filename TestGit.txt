@@ -1,5 +1,6 @@
 <html>
 	<body>
+	<title>Cambios por parte de otro desarrollador </title>
 		<div>
 			<h3>PRUEBA COMANDOS GIT </h3>
 		</div>
